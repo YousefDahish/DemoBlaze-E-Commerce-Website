@@ -5,7 +5,7 @@ The project covers test planning, execution, and defect reporting.
 
 ## 🖼️ Project Screenshot
 
-![Home Page](./Screenshots/Screenshot 2025-08-20 051940.png)
+![Home Page]("./Screenshots/Screenshot 2025-08-20 051940.png")
 
 
 ---
