@@ -15,6 +15,10 @@ The project covers test planning, execution, and defect reporting.
 - **Test Scenarios & Test Cases** (`Test_Cases.xlsx`)
 - **Bug Report** (`Bug_Report.pdf`)
 - **Test Summary Report** (`Test_Summary_Report.pdf`)
+ ##  Live Demo Website
+You can explore the website under test at:  
+[DemoBlaze – Product Store](https://www.demoblaze.com/index.html)  
+
 
 
 ---
