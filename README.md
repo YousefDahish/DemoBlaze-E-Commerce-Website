@@ -1,16 +1,16 @@
-# 🛠️ Demo E-Commerce Testing Project
+#  Demo E-Commerce Testing Project
 
 This repository contains the **Software Testing documentation** for a demo e-commerce website.  
 The project covers test planning, execution, and defect reporting.
 
-## 🖼️ Project Screenshot
+##  Project Screenshot
 
 ![Home Page](./Screenshots/Screenshot%202025-08-20%20051940.png)
 
 
 ---
 
-## 📂 Project Documents
+## Project Documents
 - **Test Plan** (`Test_Plan.pdf`)
 - **Test Scenarios & Test Cases** (`Test_Cases.xlsx`)
 - **Bug Report** (`Bug_Report.pdf`)
@@ -23,7 +23,7 @@ You can explore the website under test at:
 
 ---
 
-## 🧪 Modules Tested
+##  Modules Tested
 - **Register**
 - **Login**
 - **Home Page**
